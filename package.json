@@ -21,8 +21,8 @@
     "webpack": "^1.12.14"
   },
   "dependencies": {
-    "yandex-map-react": "^1.0.0-beta",
-    "react": "^0.14.8",
-    "react-dom": "^0.14.8"
+    "react": "^15.0.2",
+    "react-dom": "^15.0.2",
+    "yandex-map-react": "^1.0.0-beta"
   }
 }
